@@ -1,0 +1,25 @@
+_repo: Voetbal-Sport--over-haar-voor--en-nadeelen-eenige-harer-strijdvragen-en-haar-rationeele-beoef__36418
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36418-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Samson, Jac.
+    gutenberg_agent_id: '38258'
+    url: http://www.gutenberg.org/2009/agents/38258
+description: ''
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36418'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soccer'
+- !lcc 'GV'
+title: 'Voetbal-Sport: over haar voor- en nadeelen, eenige harer strijdvragen en haar
+  rationeele beoefening'
+url: http://www.gutenberg.org/ebooks/36418
